@@ -208,9 +208,14 @@ I would like to thank microverse community and my coding partner for their dedic
 
   - yes
 
-- **Question_2: Do the project use database?**
+  - **Question_2: Does the project run on webpack?**
 
-  - Answer_2: not at the moment. To be used as we scale the project
+  - yes
+
+
+- **Question_3: Do the project use database?**
+
+  - Answer_3: not at the moment. To be used as we scale the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
